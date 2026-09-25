@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "weekly_pdf_limit": 5,
   "disabled_users": [],
   "self_destruct": false,
