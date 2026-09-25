@@ -1,6 +1,6 @@
 // Normal operation
 {
-  "enabled": true,
+  "enabled": false,
   "weekly_pdf_limit": 10,
   "disabled_users": [noori@natt.com],
   "self_destruct": false,
