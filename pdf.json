@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "weekly_pdf_limit": 10,
+  "weekly_pdf_limit": 5,
   "disabled_users": [],
   "self_destruct": false,
   "purge_data": false,
