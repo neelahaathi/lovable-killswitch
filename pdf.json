@@ -2,7 +2,7 @@
 {
   "enabled": false,
   "weekly_pdf_limit": 10,
-  "disabled_users": [],
+  "disabled_users": [noori@natt.com],
   "self_destruct": false,
   "purge_data": false,
   "message": "PDF generation is temporarily disabled for maintenance."
