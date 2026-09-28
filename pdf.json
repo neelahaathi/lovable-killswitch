@@ -1,8 +1,8 @@
 {
-  "enabled": true,
+  "enabled": false,
   "weekly_pdf_limit": 5,
-  "disabled_users": [],
+  "disabled_users": ["noori@natt.com"],
   "self_destruct": false,
   "purge_data": false,
-  "message": 
+  "message": "System offline for maintenance."
 }
