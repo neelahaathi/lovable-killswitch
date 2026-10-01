@@ -2,7 +2,7 @@
   "enabled": false,
   "weekly_pdf_limit": 5,
   "disabled_users": ["noori@natt.com"],
-  "self_lolo": true,
+  "self_lolo": false,
   "self_destruct": false,
   "purge_data": false,
   "message": "System offline for maintenance."
