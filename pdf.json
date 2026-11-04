@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "weekly_pdf_limit": 5,
+  "enabled": true,
+  "weekly_pdf_limit": 25,
   "disabled_users": [],
   "self_lolo": true,
   "self_destruct": false,
